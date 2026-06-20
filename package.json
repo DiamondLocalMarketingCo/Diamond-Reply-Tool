@@ -1,0 +1,16 @@
+{
+  "name": "diamond-reply-tool-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hosted backend for the Diamond Reply Assistant Chrome extension.",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
