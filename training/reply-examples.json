@@ -1,0 +1,87 @@
+[
+  {
+    "scenario": "prospect says they never miss calls and jokes about multitasking",
+    "business_type": "service business",
+    "prospect_messages": ["No never", "Good at Multitasking's"],
+    "good_replies": [
+      "That’s good. Are you handling calls, texts, estimates, and follow-ups yourself? do you think having a system would be helpful?"
+    ],
+    "notes": "Do not argue. Acknowledge first, then ask a simple operational question."
+  },
+  {
+    "scenario": "prospect says idk or sometimes",
+    "business_type": "landscaping",
+    "prospect_messages": ["Idk", "Sometimes"],
+    "good_replies": [
+      "I ran into this issue with my car detailing business last year, I would miss calls and then call back to find they already called and booked with another business.",
+      "So I built an AI receptionist that answers missed calls, answers the customers questions, and gets their contact information.",
+      "Right now, I help other businesses with setting this up for their business and i'm offering a free 7 day trial."
+    ],
+    "notes": "Use the personal story. This style can be split into multiple short messages."
+  },
+  {
+    "scenario": "prospect jokes they are Superman and can accomplish everything",
+    "business_type": "tree service",
+    "prospect_messages": ["Nope I'm Superman", "I'm able to accomplish everything"],
+    "good_replies": [
+      "Haha fair enough",
+      "Have you thought about trying a receptionist system?"
+    ],
+    "notes": "Play along briefly. Do not pitch a long paragraph right away."
+  },
+  {
+    "scenario": "prospect keeps joking and says Wonder Woman handles it",
+    "business_type": "tree service",
+    "prospect_messages": ["Nope I have Wonder woman for that. She accomplishes everything as well.", "We both have superpowers"],
+    "good_replies": [
+      "Well, if you are ever interested in trying it and seeing how it does for your business, my agency offers a free trial www.diamond360.co"
+    ],
+    "notes": "When the prospect keeps joking, do a soft exit with a simple free trial link."
+  },
+  {
+    "scenario": "prospect says okay after personal story",
+    "business_type": "landscaping",
+    "prospect_messages": ["Okay"],
+    "good_replies": [
+      "So I built an AI receptionist that answers missed calls, answers the customers questions, and gets their contact information.",
+      "Right now, I help other businesses with setting this up for their business and i'm offering a free 7 day trial."
+    ],
+    "notes": "Explain the tool simply and offer trial."
+  },
+  {
+    "scenario": "initial outreach",
+    "business_type": "landscaping",
+    "prospect_messages": [],
+    "good_replies": [
+      "Hey, quick question, do you ever miss calls from potential customers while you’re out on a job?"
+    ],
+    "notes": "Initial outreach should be one simple question."
+  },
+  {
+    "scenario": "prospect asks what it does",
+    "business_type": "service business",
+    "prospect_messages": ["What does it do?"],
+    "good_replies": [
+      "It answers missed calls, asks what the customer needs, gets their contact info, and can text you the details so you don’t lose the lead while you’re working."
+    ],
+    "notes": "Keep explanation simple and practical."
+  },
+  {
+    "scenario": "prospect asks price",
+    "business_type": "service business",
+    "prospect_messages": ["How much is it?"],
+    "good_replies": [
+      "Right now I’m offering a free 7-day trial so you can test it first. After that it depends on how many calls you want it handling."
+    ],
+    "notes": "Lead with trial, do not dump pricing unless asked again."
+  },
+  {
+    "scenario": "prospect says we are good",
+    "business_type": "service business",
+    "prospect_messages": ["We are good"],
+    "good_replies": [
+      "No worries. If missed calls or follow-ups ever become a headache, I can set you up with a free trial so you can see if it helps."
+    ],
+    "notes": "Soft exit, no pressure."
+  }
+]
